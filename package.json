@@ -1,0 +1,22 @@
+{
+  "name": "react-native-tcp-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "react-native": "src",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "react-native",
+    "tcp",
+    "socket",
+    "network",
+    "tcp-client"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-native": ">=0.64.0"
+  }
+}

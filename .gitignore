@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+lib/
+*.tsbuildinfo
+
+# macOS
+.DS_Store
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+
+# iOS
+ios/build/
+ios/Pods/
+ios/Podfile.lock
+ios/*.xcworkspace
+ios/*.xcodeproj/project.xcworkspace/
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcodeproj/project.xcuserdatad/
+
+# IDE
+.idea/
+.vscode/
+
+# Misc
+.env
+*.log
+tmp/
+temp/
+
+# React Native
+.expo/
+*.expo
+*.keystore
+
+# Test
+coverage/
+jest-cache/

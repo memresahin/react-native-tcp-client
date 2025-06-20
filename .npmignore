@@ -1,0 +1,6 @@
+example/
+ios/
+android/
+*.podspec
+tsconfig.json
+*.log
