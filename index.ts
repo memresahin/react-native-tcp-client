@@ -1,1 +1,2 @@
-export { default as TcpClient } from "./src/TcpClient";
+import TcpClient from "./src/TcpClient";
+export default TcpClient;
