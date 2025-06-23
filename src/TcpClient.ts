@@ -19,6 +19,7 @@ export default class TcpClient {
   };
 
   connect(host: string, port: number) {
+    console.log("NativeTcpClient", NativeTcpClient);
     NativeTcpClient.connect(host, port);
   }
 
